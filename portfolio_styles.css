@@ -1,2 +1,13 @@
 @charset "utf-8";
 
+html {
+  background: url(sky_bg.png);
+  height: 100%;
+}
+
+body {
+  margin: 0 auto;
+  min-height: 100%;
+  min-width: 320px;
+  max-width: 1024px;
+}
